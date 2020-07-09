@@ -6,15 +6,15 @@ author: "Vórtice"
 
 ἐπιμέλεια
 
-diligence, care, care, custody…
+Diligência, cuidado, custodia…
 
-melhora a nossa condição em relação a nós mesmos.
+Melhora a nossa condição em relação a nós mesmos.
 
 Pode ser traduzido como “cuidar de sí”
 
 etimologicamente prefixo epi – perto
 
-μέλεια meleia – cuidado, preocupação, mudanção do coração, alteraçõ da disposição
+μέλεια (meleia) – cuidado, preocupação, mudanção do coração, alteração da disposição
 
 1ª determinação
 
