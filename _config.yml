@@ -1,13 +1,13 @@
 # Site settings
 remote_theme: chesterhow/tale
-title:          Lisbon Revisited
+title:          Vórtice
 description:    "Cenas"
 
-url:            "https://pablu.github.io/lisbonrevisited"
+url:            "https://pablu.github.io/vortice"
 
 # Author
 author:
-  name:         Lisbon Revisited
+  name:         Vórtice
   url:          https://pablu.github.io/lisbonrevisited
   email:        pablu@protonmail.com
 
@@ -25,5 +25,5 @@ plugins:
   - jekyll-remote-theme
 
 # Permalinks
-permalink:      /:year-:month-:day/:title
+permalink:      /:title
 paginate:       5
